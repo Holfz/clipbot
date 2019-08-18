@@ -1,8 +1,3 @@
-//Cheeriooooooooooooooooooooooooooooooo
-
-//class="player-video" > video src
-//https://clips.twitch.tv/embed?clip={0}&tt_medium=clips_api&tt_content=embed
-
 const puppeteer = require('puppeteer');
 const request = require('request');
 const fs = require('fs');
