@@ -21,8 +21,8 @@ function getFilesizeInBytes(filename) { //https://techoverflow.net/2012/09/16/ho
 }
 
 module.exports.run = async (client, message, args) => {
-    if(args[0] === undefined || args[0] === "") {
-        return;
+    if(args[0] === undefined || args[0] === "") { // if clipsid didn't provide
+        return; // Return it
     }
 
     let clipsID = args[0];
