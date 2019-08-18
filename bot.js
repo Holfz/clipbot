@@ -26,13 +26,7 @@ fs.readdir("./modules/", (err, files) => {
 
 client.on('ready', () => {
     console.log(`Discord > Logged in as ${client.user.tag}!`);
-	client.user.setStatus('available') // Can be 'available', 'idle', 'dnd', or 'invisible'
-    //client.user.setPresence({
-    //    game: {
-    //        name: 'play.noah.in.th',
-    //        type: 0
-    //    }
-    //});
+    client.user.setStatus('available') // Can be 'available', 'idle', 'dnd', or 'invisible'
 });
 
 client.on('message', async msg => {
