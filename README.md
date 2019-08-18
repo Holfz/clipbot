@@ -24,5 +24,4 @@ node bot.js
 ```
 #### Commands
 
-!clips <clipid>
-
+!clips clipid
