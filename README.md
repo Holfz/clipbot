@@ -22,3 +22,7 @@ Make sure [nodejs](https://nodejs.org/en/) is installed and running in your envi
 ```
 node bot.js
 ```
+#### Commands
+
+!clips <clipid>
+
