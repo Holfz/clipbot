@@ -4,7 +4,7 @@
 
 ## Setup
 
-Make sure [nodejs](https://nodejs.org/en/) is installed and running in your enviroment
+Make sure [nodejs](https://nodejs.org/en/) is installed and running in your environment
 
 #### Create your bot token
 1. Go to [Discord Developer Portal](https://discordapp.com/developers/applications/)
